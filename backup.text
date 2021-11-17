@@ -1,0 +1,11 @@
+
+        "@react-pdf-viewer/core": "2.9.1",
+        "@react-pdf-viewer/locales": "^1.0.0",
+        "@react-pdf/renderer": "^1.6.17",
+
+        "bulma": "^0.9.3",
+        "bulma-helpers": "^0.4.0",
+        "copy-webpack-plugin": "^9.0.1", 
+"html-react-parser": "^1.2.8",
+        "html-to-react": "^1.4.5",
+        "pdf-viewer-reactjs": "^2.2.3",
